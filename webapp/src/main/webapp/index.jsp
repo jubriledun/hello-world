@@ -1,8 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-	  <h2> Another One </h2>
-	  <h1> adding another change to be built and deployed in the next minute </h1>
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>Testing for Automated CI/CD to a Docker Host running on AWS</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
